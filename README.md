@@ -1,20 +1,19 @@
 # awesome-machine-learning-engineering
 A curated list of articles, papers and tools for managing the building and deploying of machine learning models, aka machine learning engineering.
 
-- [Awesome Machine Learning Engineering](#awesome-machine-learning-engineering)
- - [Where to start](#where-to-start)
- - [Data](#data)
- - [Best practice](#best-practice)
- - [Example pipelines](#example-pipelines)
- - [Big data on a single machine](#big-data-on-a-single-machine)
- - [Software](#software)
-     - [Managing building and deploying models](#managing-building-and-deploying-models)
-     - [Managing building models](#managing-building-models)
-     - [Deploying models](#deploying-models)
-     - [Serialising and transpiling models](#serialising-and-transpiling-models)
-     - [AWS](#aws)
-     - [Google Cloud](#google-cloud)
- - [Related awesome lists](#related-awesome-lists)
+- [Where to start](#where-to-start)
+- [Data](#data)
+- [Best practice](#best-practice)
+- [Example pipelines](#example-pipelines)
+- [Big data on a single machine](#big-data-on-a-single-machine)
+- [Software](#software)
+    - [Managing building and deploying models](#managing-building-and-deploying-models)
+    - [Managing building models](#managing-building-models)
+    - [Deploying models](#deploying-models)
+    - [Serialising and transpiling models](#serialising-and-transpiling-models)
+    - [AWS](#aws)
+    - [Google Cloud](#google-cloud)
+- [Related awesome lists](#related-awesome-lists)
 
 ## Where to start
 
@@ -53,7 +52,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 
 ## Software
 
-### Managing building & deploying models
+### Managing building and deploying models
 
 * [kubeflow](https://github.com/kubeflow/kubeflow) Machine Learning Toolkit for Kubernetes (kubeflow)
 * [ModelDB](https://github.com/mitdbg/modeldb) A system to manage machine learning models (MIT)
