@@ -63,7 +63,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [Luigi](https://github.com/spotify/luigi) is a Python module that helps you build complex pipelines of batch jobs. (Spotify)
 * [Airflow](https://github.com/apache/incubator-airflow) is a platform to programmatically author, schedule, and monitor workflows (Netflix)
 * [Azkaban](https://github.com/azkaban/azkaban) workflow manager (LinkedIn)
-https://github.com/pinterest/pinball (pinterest)
+* [Pinball](https://github.com/pinterest/pinball) is a scalable workflow manager (pinterest)
 
 ### Deploying models
 
