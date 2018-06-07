@@ -78,8 +78,10 @@ A curated list of articles, papers and tools for managing the building and deplo
 
 ### Serialising and transpiling models
 
-* [sklearn-porter](https://github.com/nok/sklearn-porter) Transpile trained scikit-learn estimators to C, Java, JavaScript and others
+* [Predictive Model Markup Language](https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language) (PMML)
 * [jpmml-sklearn](https://github.com/jpmml/jpmml-sklearn) Java library and command-line application for converting Scikit-Learn pipelines to PMML
+* [sklearn2pmml](https://github.com/jpmml/sklearn2pmml) Python library for converting Scikit-Learn pipelines to PMML
+* [sklearn-porter](https://github.com/nok/sklearn-porter) Transpile trained scikit-learn estimators to C, Java, JavaScript and others
 
 ### AWS
 
