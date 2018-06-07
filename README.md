@@ -33,6 +33,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [Machine Learning: The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [Patterns for Research in Machine Learning](http://arkitus.com/patterns-for-research-in-machine-learning/)
+* [Production Data Science](https://github.com/Satalia/production-data-science)
 
 ## Example pipelines
 
