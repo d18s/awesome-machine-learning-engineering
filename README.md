@@ -14,6 +14,7 @@ A curated list of articles, papers and tools for managing the building and deplo
     - [Monitoring models](#monitoring-models)
     - [AWS](#aws)
     - [Google Cloud](#google-cloud)
+    - [Azure](#azure)
 - [Related awesome lists](#related-awesome-lists)
 
 ## Where to start
@@ -104,6 +105,12 @@ A curated list of articles, papers and tools for managing the building and deplo
 
 * [Dataflow](https://cloud.google.com/dataflow/docs/) "is a unified programming model and a managed service for developing and executing a wide variety of data processing patterns"
 * [ML Engine](https://cloud.google.com/ml-engine/docs/) "brings the power and flexibility of TensorFlow, scikit-learn and XGBoost to the cloud"
+
+### Azure
+
+* [Batch AI](https://docs.microsoft.com/en-us/azure/batch-ai/) "helps you experiment with your AI models using any framework and then train them at scale across GPU and CPU clusters"
+* [Machine Learning services](https://docs.microsoft.com/en-us/azure/machine-learning/service/) "enable building, deploying, and managing machine learning and AI models using any Python tools and libraries"
+* [Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/) "is a collaborative, drag-and-drop tool you can use to build, test, and deploy predictive analytics solutions on your data"
 
 ## Related awesome lists
 
