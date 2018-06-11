@@ -11,6 +11,7 @@ A curated list of articles, papers and tools for managing the building and deplo
     - [Managing building models](#managing-building-models)
     - [Deploying models](#deploying-models)
     - [Serialising and transpiling models](#serialising-and-transpiling-models)
+    - [Monitoring models](#monitoring-models)
     - [AWS](#aws)
     - [Google Cloud](#google-cloud)
 - [Related awesome lists](#related-awesome-lists)
@@ -34,6 +35,9 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [Patterns for Research in Machine Learning](http://arkitus.com/patterns-for-research-in-machine-learning/)
 * [Production Data Science](https://github.com/Satalia/production-data-science)
+* [Reliable Machine Learning in the Wild NIPS 2016 workshop](https://sites.google.com/site/wildml2016nips/)
+* [Reliable Machine Learning in the Wild ICML 2017 workshop](https://sites.google.com/site/wildml2017icml/)
+* [Making Netflix Machine Learning Algorithms Reliable](https://www.slideshare.net/justinbasilico/making-netflix-machine-learning-algorithms-reliable)
 
 ## Example pipelines
 
@@ -82,6 +86,10 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [jpmml-sklearn](https://github.com/jpmml/jpmml-sklearn) Java library and command-line application for converting Scikit-Learn pipelines to PMML
 * [sklearn2pmml](https://github.com/jpmml/sklearn2pmml) Python library for converting Scikit-Learn pipelines to PMML
 * [sklearn-porter](https://github.com/nok/sklearn-porter) Transpile trained scikit-learn estimators to C, Java, JavaScript and others
+
+### Monitoring models
+
+* [Knowledge Repo](https://github.com/airbnb/knowledge-repo) A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 
 ### AWS
 
