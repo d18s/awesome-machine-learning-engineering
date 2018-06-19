@@ -5,6 +5,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 - [Data](#data)
 - [Best practice](#best-practice)
 - [Example pipelines](#example-pipelines)
+- [Production machine learning conference tracks and workshops](#production-machine-learning-conference-tracks-and-workshops)
 - [Big data on a single machine](#big-data-on-a-single-machine)
 - [Software](#software)
     - [Managing building and deploying models](#managing-building-and-deploying-models)
@@ -36,9 +37,8 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [Patterns for Research in Machine Learning](http://arkitus.com/patterns-for-research-in-machine-learning/)
 * [Production Data Science](https://github.com/Satalia/production-data-science)
-* [Reliable Machine Learning in the Wild NIPS 2016 workshop](https://sites.google.com/site/wildml2016nips/)
-* [Reliable Machine Learning in the Wild ICML 2017 workshop](https://sites.google.com/site/wildml2017icml/)
 * [Making Netflix Machine Learning Algorithms Reliable](https://www.slideshare.net/justinbasilico/making-netflix-machine-learning-algorithms-reliable)
+* [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 
 ## Example pipelines
 
@@ -46,12 +46,25 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [Learning a Personalized Homepage](https://medium.com/netflix-techblog/learning-a-personalized-homepage-aa8ec670359a)
 * [Distributed Time Travel for Feature Generation](https://medium.com/netflix-techblog/distributed-time-travel-for-feature-generation-389cccdd3907)
 
-## Big data on a single machine
+## Production machine learning conference tracks and workshops
+
+* [Reliable Machine Learning in the Wild NIPS 2016 workshop](https://sites.google.com/site/wildml2016nips/)
+* [Reliable Machine Learning in the Wild ICML 2017 workshop](https://sites.google.com/site/wildml2017icml/)
+* [KDD 2017 Applied Data Science](http://www.kdd.org/kdd2017/applied-data-science-invited-talks)
+* [KDD 2018 Applied Data Science](http://www.kdd.org/kdd2018/applied-data-science-invited-talks)
+* [ECMLPKDD 2016 Industrial track](http://www.ecmlpkdd2016.org/program.html#accepted-industrial)
+* [ECMLPKDD 2017 Applied Data Science track](http://ecmlpkdd2017.ijs.si/program.html#AppDSTab)
+* [ECMLPKDD 2018](http://www.ecmlpkdd2018.org/)
+* [WWW 2018 Industry track](https://www2018.thewebconf.org/program/industry-track/)
+
+## Big data on a single machine / on the command line
 
 * [Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [Big Data, Small Machine](https://adamdrake.com/big-data-small-machine.html)
 * [Dask](https://github.com/dask/dask)
 * [Unix for poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
+* [Data Science at the Command Line](https://www.datascienceatthecommandline.com)
+* [Data hacks](https://github.com/bitly/data_hacks) command line utilities
 * [Split command](https://linux.die.net/man/1/split)
 * [Parallel command](https://linux.die.net/man/1/parallel)
 * [Xargs command parallel flag](https://www.gnu.org/software/findutils/manual/html_node/find_html/Controlling-Parallelism.html)
