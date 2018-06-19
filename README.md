@@ -5,8 +5,8 @@ A curated list of articles, papers and tools for managing the building and deplo
 - [Data](#data)
 - [Best practice](#best-practice)
 - [Example pipelines](#example-pipelines)
-- [Production machine learning conference tracks and workshops](#production-machine-learning-conference-tracks-and-workshops)
-- [Big data on a single machine](#big-data-on-a-single-machine)
+- [Conference tracks and workshops](#conference-tracks-and-workshops)
+- [Big data on a single machine / on the command line](#big-data-on-a-single-machine--on-the-command-line)
 - [Software](#software)
     - [Managing building and deploying models](#managing-building-and-deploying-models)
     - [Managing building models](#managing-building-models)
@@ -46,7 +46,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [Learning a Personalized Homepage](https://medium.com/netflix-techblog/learning-a-personalized-homepage-aa8ec670359a)
 * [Distributed Time Travel for Feature Generation](https://medium.com/netflix-techblog/distributed-time-travel-for-feature-generation-389cccdd3907)
 
-## Production machine learning conference tracks and workshops
+## Conference tracks and workshops
 
 * [Reliable Machine Learning in the Wild NIPS 2016 workshop](https://sites.google.com/site/wildml2016nips/)
 * [Reliable Machine Learning in the Wild ICML 2017 workshop](https://sites.google.com/site/wildml2017icml/)
