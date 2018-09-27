@@ -54,7 +54,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [KDD 2018 Applied Data Science](http://www.kdd.org/kdd2018/applied-data-science-invited-talks)
 * [ECMLPKDD 2016 Industrial track](http://www.ecmlpkdd2016.org/program.html#accepted-industrial)
 * [ECMLPKDD 2017 Applied Data Science track](http://ecmlpkdd2017.ijs.si/program.html#AppDSTab)
-* [ECMLPKDD 2018](http://www.ecmlpkdd2018.org/)
+* [ECMLPKDD 2018](http://www.ecmlpkdd2018.org/accepted-papers-by-track-2/#tab-id-3)
 * [WWW 2018 Industry track](https://www2018.thewebconf.org/program/industry-track/)
 
 ## Big data on a single machine / on the command line
