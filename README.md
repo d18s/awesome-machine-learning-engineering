@@ -76,6 +76,7 @@ A curated list of articles, papers and tools for managing the building and deplo
 * [kubeflow](https://github.com/kubeflow/kubeflow) Machine Learning Toolkit for Kubernetes (kubeflow)
 * [ModelDB](https://github.com/mitdbg/modeldb) A system to manage machine learning models (MIT)
 * [mlflow](https://github.com/databricks/mlflow) Open source platform for the complete machine learning lifecycle (Databricks)
+* [datmo](https://github.com/datmo/datmo) Open source model tracking tool for data scientists
 
 ### Managing building models
 
